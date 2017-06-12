@@ -5,6 +5,7 @@ jobs:
     docker:
       - image: circleci/ruby:2.4.1
         environment:
+          TESTOPTS: "--ci-dir=/tmp/test-results"
           APP_ENV: test
     steps:
       - checkout
