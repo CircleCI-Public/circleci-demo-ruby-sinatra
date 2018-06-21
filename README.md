@@ -15,3 +15,4 @@ Test
 Another test
 
 
+hello from terminal
