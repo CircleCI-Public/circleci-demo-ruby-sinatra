@@ -12,4 +12,6 @@ Distributed under the MIT License. See the file COPYING.
 
 Test
 
+Another test
+
 
